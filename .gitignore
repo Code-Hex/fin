@@ -1,0 +1,9 @@
+*
+!*.*
+!*/
+!LICENSE
+!.gitignore
+!.travis.yml
+vendor
+*log
+*.pid
